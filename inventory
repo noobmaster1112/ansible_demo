@@ -1,1 +1,1 @@
-ubuntu@10.0.2.4
+ubuntu@10.0.2.4 apache_package=apache2 php_package=libapache2-mod-php
