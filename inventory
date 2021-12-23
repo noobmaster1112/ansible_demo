@@ -4,3 +4,6 @@ ubuntu@10.0.2.4
 [db_servers]
 
 [file_servers]
+
+[workstations]
+
